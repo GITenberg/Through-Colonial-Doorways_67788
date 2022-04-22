@@ -1,5 +1,8 @@
 _repo: Through-Colonial-Doorways_67788
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67788-h/images/cover.jpg
 creator:
   author:
     agent_name: Wharton, Anne Hollingsworth
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32987
     wikipedia: http://en.wikipedia.org/wiki/Anne_Hollingsworth_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67788#Through-Colonial-Doorways
 gutenberg_issued: '2022-04-07'
 identifiers:
   gutenberg: '67788'
