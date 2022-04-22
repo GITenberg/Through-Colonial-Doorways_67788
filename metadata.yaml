@@ -1,0 +1,30 @@
+_repo: Through-Colonial-Doorways_67788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Anne Hollingsworth
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '32987'
+    url: http://www.gutenberg.org/2009/agents/32987
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Hollingsworth_Wharton
+description: ''
+gutenberg_issued: '2022-04-07'
+identifiers:
+  gutenberg: '67788'
+language: en
+pgterms:marc904: https://archive.org/details/throughcoloniald00whar/page/n9/mode/2up
+pgterms:marc905: 20200912115210wharton
+pgterms:marc906: '1893'
+pgterms:marc907: PA
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: Panama :J. B. Lippincott Company,1893,pubdate 1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through Colonial Doorways
+url: http://www.gutenberg.org/ebooks/67788
